@@ -122,9 +122,8 @@ cap. Now tighten the cap by screwing it back.
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![IMG_20251124_223120](https://github.com/user-attachments/assets/574c2d05-ad64-48cc-9920-9077d144ceb5)
+
 
 ---
 
@@ -132,9 +131,13 @@ cap. Now tighten the cap by screwing it back.
 
 <img width="599" height="322" alt="515239388-1315dcd7-7a5b-49a4-8d9f-c2b4ceec2feb" src="https://github.com/user-attachments/assets/25913638-5977-4393-8d3b-680a4c849130" />
 
-
----
+![518014783-7bca2da7-c318-4f29-a799-0300bdbf91d5 (1)](https://github.com/user-attachments/assets/11b68638-7c51-46e4-8d73-b03b6037e8c4)
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The digital 660 nm fiber optic link accurately reproduced the input square wave at the receiver, confirming proper digital signal transmission and bandwidth response.
+
+
+---
+
+
