@@ -116,6 +116,7 @@ cap. Now tighten the cap by screwing it back.
 ---
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
+
 <img width="515" height="127" alt="515239049-5e18d568-7cf6-4d26-a2e6-3fca9f74c8d1" src="https://github.com/user-attachments/assets/de57b94c-406b-4b32-ba56-70f99778bd48" />
 
 ## TABULATION  
